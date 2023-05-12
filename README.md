@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Ryan Alves 🦋</h1>
 
-<!--
-**RyanAlvesz/RyanAlvesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas no SENAI Jandira
 
-Here are some ideas to get you started:
+[![linkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/ryan-alvesz/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](www.github.com/RyanAlvesz.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ra546038@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub
+<div style="display: inline_block"><br/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanAlvesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAlvesz&layout=compact&langs_count=7&theme=dracula"/>
+</div><br/><br/>  
+  
+  -----
+
+![snake gif](https://github.com/RyanAlvesz/RyanAlvesz/blob/output/github-contribution-grid-snake.svg)
