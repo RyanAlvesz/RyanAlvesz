@@ -21,4 +21,4 @@
   
   -----
 
-![snake gif](https://github.com/RyanAlvesz/RyanAlvesz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RyanAlvesz/RyanAlvesz/blob/output/github-contribution-grid-snake.svg)
