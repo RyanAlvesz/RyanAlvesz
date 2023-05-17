@@ -9,9 +9,10 @@
 
 ### 👽 Sobre mim
 - 📚 Estudo Desenvolvimento de Sistemas no SENAI Jandira 
-- ✨ Estou sempre buscando aprender mais 
+- ✨ Estou sempre buscando aprender mais
+- 🌹 Muito criativo
 - 🎶 Gosto de escutar música e ler livros 
-- 🐈 Apaixonado por animais 
+- 🐈 Apaixonado por animais
   
 ### 🤖 GitHub
 <div style="display: inline_block" align="center">
