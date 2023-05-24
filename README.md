@@ -15,6 +15,8 @@
 - 🌹 Muito criativo
 - 🎶 Gosto de escutar música e ler livros 
 - 🐈 Apaixonado por animais
+- 🎠 Desenvolvedor Full Stack 
+- ☁ Nuvem e Banco de Dados
   
 ### 🤖 GitHub
 <div style="display: inline_block" align="center">
